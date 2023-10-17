@@ -30,7 +30,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/example/reflector"
+	"github.com/jtarchie/reflector"
 )
 
 type User struct {
