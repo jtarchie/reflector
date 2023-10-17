@@ -10,7 +10,7 @@ import (
 
 func TestBenchmark(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Benchmark Suite")
+	RunSpecs(t, "Reflector Suite")
 }
 
 type Person struct {
